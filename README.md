@@ -55,6 +55,8 @@ health-checkup-analysis/
 ├── requirements.txt       # 분석 환경 (패키지 목록)
 ├── notebooks/
 │   └── analysis.ipynb     # 전체 분석 노트북
+├── utils/
+│   └── utils.py           # 분석 관련 함수 정의
 └── data/
     └── README.md          # 데이터 설명서 (원자료는 미포함)
 ```
