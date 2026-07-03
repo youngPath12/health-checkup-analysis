@@ -20,7 +20,7 @@ from sklearn.metrics import roc_auc_score, roc_curve
 from utils.utils import (
     plot_box, plot_crosstab,
     run_2group, run_multigroup, posthoc, run_chi2,
-)
+오후6시
 
 # %%
 # ── [결과 폴더] results/figures, results/tables 를 만들어 둡니다 ──
